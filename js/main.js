@@ -51,7 +51,7 @@ if (iconMenu) {
 }
 
 
-const swiper = new Swiper(".swiper-container", {
+const swiper = new Swiper(".swiper-container-1", {
   loop: true,
   direction: "vertical",
   
@@ -62,7 +62,23 @@ const swiper = new Swiper(".swiper-container", {
     invert: true,
   },
   pagination: {
-    el: ".swiper-pagination",
+    el: ".swiper-pagination-1",
+    type: "progressbar"
+  },
+});
+
+const mobileSwiper = new Swiper(".swiper-container-2", {
+  loop: true,
+  direction: "vertical",
+  
+  spaceBetween: 30,
+  centeredSlides: true,
+  speed: 500,
+  mousewheel: {
+    invert: true,
+  },
+  pagination: {
+    el: ".swiper-pagination-2",
     type: "progressbar"
   },
 });
