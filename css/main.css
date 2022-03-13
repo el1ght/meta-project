@@ -295,7 +295,7 @@ a {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url(../../img/lines2.png);
+  background: url(../img/lines2.png);
   z-index: -1;
 }
 .hero__content::after {
@@ -423,7 +423,7 @@ a {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url(../../img/lines2.png);
+  background: url(../img/lines2.png);
   z-index: -1;
 }
 .intro .content::after {
@@ -459,7 +459,7 @@ a {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url(../../img/lines2.png);
+  background: url(../img/lines2.png);
   z-index: -1;
 }
 .intro .content2::after {
@@ -837,7 +837,7 @@ a {
   position: relative;
   padding: 216px 0 0 0;
   min-height: 2400px;
-  background-image: url(../../img/roadmap-bg.jpg);
+  background-image: url(../img/roadmap-bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1013,7 +1013,7 @@ ul.custom-bullet > li {
 }
 
 ul.custom-bullet > li:before {
-  content: url(../../img/list-bullet.svg);
+  content: url(../img/list-bullet.svg);
   height: 24px;
   width: 24px;
   display: block;
@@ -1092,7 +1092,7 @@ li > ul {
   }
 }
 .info-card__more::after {
-  content: url(../../img/arrow-down.svg);
+  content: url(../img/arrow-down.svg);
   position: absolute;
   right: -2px;
   width: 13px;
@@ -1400,7 +1400,7 @@ li > ul {
   }
 }
 .brands {
-  background-image: url(../../img/brands-bg.jpg);
+  background-image: url(../img/brands-bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1502,7 +1502,7 @@ li > ul {
 .resources {
   position: relative;
   padding: 100px 0 375px;
-  background-image: url(../../img/resources-bg.jpg);
+  background-image: url(../img/resources-bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1815,7 +1815,7 @@ li > ul {
 .game {
   position: relative;
   padding: 330px 0 180px;
-  background-image: url(../../img/meta-bg.jpg);
+  background-image: url(../img/meta-bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1956,7 +1956,7 @@ li > ul {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url(../../img/game-lines.svg);
+  background: url(../img/game-lines.svg);
   z-index: 0;
 }
 .game__icon {
@@ -2279,7 +2279,7 @@ li > ul {
 .marketplace {
   position: relative;
   padding: 230px 0 125px;
-  background-image: url(../../img/marketplace-bg.jpg);
+  background-image: url(../img/marketplace-bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2344,7 +2344,7 @@ li > ul {
   bottom: 0;
 }
 .marketplace-wrapper-1::before {
-  background: url(../../img/marketplace-lines.svg);
+  background: url(../img/marketplace-lines.svg);
 }
 .marketplace-wrapper-2 {
   position: relative;
@@ -2383,7 +2383,7 @@ li > ul {
   }
 }
 .marketplace-wrapper-2::before {
-  background: url(../../img/marketplace-lines.svg);
+  background: url(../img/marketplace-lines.svg);
   width: 100%;
   height: 100%;
 }
@@ -2937,7 +2937,7 @@ li > ul {
 .team {
   position: relative;
   padding: 150px 0 380px;
-  background-image: url(../../img/team-final-bg.jpg);
+  background-image: url(../img/team-final-bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3171,7 +3171,7 @@ li > ul {
 
 .social {
   padding: 160px 0 170px;
-  background-image: url(../../img/socials-bg.jpg);
+  background-image: url(../img/socials-bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3525,7 +3525,7 @@ li > ul {
   }
 }
 .footer {
-  background-image: url(../../img/footer-bg.jpg);
+  background-image: url(../img/footer-bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3800,7 +3800,7 @@ li > ul {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url(../../img/lines2.png);
+  background: url(../img/lines2.png);
   z-index: -1;
 }
 .mobile-content::after {
@@ -3829,7 +3829,7 @@ li > ul {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url(../../img/lines2.png);
+  background: url(../img/lines2.png);
   z-index: -1;
 }
 .mobile-content2::after {
@@ -3868,7 +3868,7 @@ video::-webkit-media-controls {
 .about-mobile {
   display: none;
   height: 160vh;
-  background-image: url(../../img/about-bg.jpg);
+  background-image: url(../img/about-bg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3909,7 +3909,7 @@ video::-webkit-media-controls {
   position: absolute;
   top: 0;
   left: 0;
-  background: url(../../img/lines2.png);
+  background: url(../img/lines2.png);
   z-index: -1;
   width: 460px;
   height: 100%;
